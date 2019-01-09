@@ -1,2 +1,3 @@
 # random-string
-Generate long, random strings in seconds!
+Generate random strings in seconds!
+Customizeable, fast string generator
